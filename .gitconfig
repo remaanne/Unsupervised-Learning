@@ -1,0 +1,7 @@
+[core]
+	editor = \"C:\\Users\\madio\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\code\" --wait
+[user]
+	name = Mareme Anne
+	email = anne.mareme@yahoo.com
+[credential "https://git.bootcampcontent.com"]
+	provider = generic
